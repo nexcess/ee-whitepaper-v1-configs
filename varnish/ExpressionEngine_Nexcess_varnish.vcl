@@ -1,6 +1,6 @@
 # Nexcess Varnish Configuration http://nexcess.net
 # last-modified: 2013-09-06T12:43
-# reference: https://ellislab.com/blog/entry/making-sites-fly-with-varnish
+# reference: https://web.archive.org/web/20131008204632/http://ellislab.com/blog/entry/making-sites-fly-with-varnish
 
 # backend configuration
 backend default {
